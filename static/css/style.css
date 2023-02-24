@@ -1675,5 +1675,5 @@ z-index: 2;
     color: #fff;
 }
 .footer-newsletter p{
-    color:white;
+    color:white !important;
 }
