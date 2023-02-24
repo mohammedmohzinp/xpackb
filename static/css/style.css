@@ -1656,6 +1656,7 @@ z-index: 2;
 
 .container {
     padding: 2px 16px;
+    overflow:scroll;
 }
 
 .card h6 {
