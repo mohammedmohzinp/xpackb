@@ -593,7 +593,7 @@ ul li {
 p {
     font-size: 15px;
     margin-left: 20px;
-    color: black;
+    color: black !important;
 }
 
 
