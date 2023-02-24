@@ -1677,6 +1677,6 @@ z-index: 2;
 .footer-newsletter p {
     color: white !important;
 }
-.footer-info p {
+.footer-info p ,.desc{
     color: white !important;
 }
