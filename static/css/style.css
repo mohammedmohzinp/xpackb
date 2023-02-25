@@ -566,6 +566,7 @@ section {
     font-size: 34px;
     color: #21413c;
     color: white;
+    tex-align:center;
 }
 
 .about .icon-box {
